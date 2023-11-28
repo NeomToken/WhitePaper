@@ -1,7 +1,7 @@
 # WhitePaper
 Neom
 
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/NeomToken/WhitePaper/80aa209f766615b5b4956f1e791152e09a7d7f43/photo_2023-11-28_16-33-12.jpg))
+![alt لوگو]([http://url/to/img.png](https://raw.githubusercontent.com/NeomToken/WhitePaper/80aa209f766615b5b4956f1e791152e09a7d7f43/photo_2023-11-28_16-33-12.jpg))
 
  
 Neom Token Whitepaper
