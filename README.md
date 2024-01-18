@@ -33,14 +33,6 @@ Token purpose: Neom token is a utility token that is used to facilitate transact
 
 Token goal: Neom token is designed to create a sustainable, equitable, and environmentally friendly economic and social ecosystem in partnership with the Neom Saudi Arabia project.
 
-Ownership
-
-Owner: Ali Rohravan
-
-Nationality: Iranian
-
-Experience: Ali Rohravan is a successful entrepreneur and investor with over 20 years of experience in the technology industry. He is the founder and CEO of several successful technology companies, including Neom.
-
 
 Problem
 
